@@ -36,7 +36,6 @@ Environment variables should set:
 Additionally, to compile Lambda functions written in the Rust programming language, use [Cargo Lambda](https://www.cargo-lambda.info/).
 
 
-* [Get started with functions](rustv1/examples/lambda/Cargo.toml)
 
 
 
