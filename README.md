@@ -5,12 +5,12 @@
 Lambda speed test to compare Rust and NodeJS
 
 ## My test results 2023.12.08 (Amazon Linux AMI 2.0 )
-###Coldstart:
+### Coldstart:
 
 NodeJS -Max Memory Used: 75 MB - Init Duration: 193.02 ms 
 
 Rust - Max Memory Used: 13 MB - Init Duration: 22.29 ms 
-## Rerun
+### ReRun
 NodeJS -Billed Duration: 305 ms - Max Memory Used: 76 MB
 
 Rust - Billed Duration: 6 ms - Max Memory Used: 14 MB
