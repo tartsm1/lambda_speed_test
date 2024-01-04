@@ -11,7 +11,7 @@ NodeJS -Max Memory Used: 75 MB - Init Duration: 193.02 ms
 
 Rust - Max Memory Used: 13 MB - Init Duration: 22.29 ms 
 ### ReRun
-NodeJS -Billed Duration: 305 ms - Max Memory Used: 76 MB
+NodeJS -Billed Duration: 305 ms (varies in every call btween 100-300 ms ) - Max Memory Used: 76 MB 
 
 Rust - Billed Duration: 6 ms - Max Memory Used: 14 MB
  
